@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes.
 I have pushed the git
 creating a new branch is quick And simple.
+add merge
